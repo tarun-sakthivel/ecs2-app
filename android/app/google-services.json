@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "283713143686",
+    "firebase_url": "https://ecs2-41c50-default-rtdb.firebaseio.com",
+    "project_id": "ecs2-41c50",
+    "storage_bucket": "ecs2-41c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283713143686:android:695a8ab14b7f12895d2207",
+        "android_client_info": {
+          "package_name": "com.ecs2.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAUBEzFqyzhCTsywgw1bat6ZyDJ0IgI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
